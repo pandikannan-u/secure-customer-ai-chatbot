@@ -1,0 +1,10 @@
+.venv/
+vnv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+qdrant_storage/
+*.db
+*.sqlite3

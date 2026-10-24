@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+alembic
+pydantic-settings
+python-jose[cryptography]
+cryptography
+python-multipart
+httpx
+qdrant-client
+ollama
+sentence-transformers
